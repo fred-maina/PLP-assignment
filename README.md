@@ -24,7 +24,7 @@ You are tasked with retrieving and managing data from a Bill Management System's
 Push the code to GitHub when finished.
 
 ## Assignment Questions
-___
+
 1. Retrieving All Data
 Write an SQL query to retrieve all columns for all the bills in the Bills table.
 
