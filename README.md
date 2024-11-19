@@ -22,7 +22,7 @@ You are tasked with retrieving and managing data from a Bill Management System's
    -- Question 1.1
    SELECT * FROM orders;
 Push the code to GitHub when finished.
-Assignment Questions
+##Assignment Questions
 1. Retrieving All Data
 Write an SQL query to retrieve all columns for all the bills in the Bills table.
 
